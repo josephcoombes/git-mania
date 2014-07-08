@@ -1,4 +1,8 @@
 testing testing testing
 
+<<<<<<< HEAD
 
 chantals change
+=======
+making a change
+>>>>>>> 86f205fcf8c5f13739be72332b5c95ca8f55e624
